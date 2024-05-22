@@ -1,4 +1,4 @@
-## Hi there 👋
+Heloo I'm Sanjana Kumara👋
 
 <!--
 **sanjana-kumara/sanjana-kumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
