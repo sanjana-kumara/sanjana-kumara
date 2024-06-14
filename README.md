@@ -11,7 +11,12 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=sanjana-kumara&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -19,19 +24,15 @@
        alt="snake" /></a>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
 <br>
 
 <p><img align="right" src="https://github.com/sanjana-kumara/sanjana-kumara/blob/main/animation_500_kxa883sd.gif" alt="sanjana-kumara" /></p>
 
 <br>
+<br>
+<br>
+
+<!--h2 without bottom border-->
 
 
 
@@ -104,10 +105,5 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+
 
