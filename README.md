@@ -42,6 +42,8 @@
 - 🌱 I’m currently learning about **deep learning**🥰
 
 - 💬 Ask from me anything you want, If I am alive I will answer within seconds 😉
+
+- 📫 How to reach me **sanjananisalkumara@gmail.com**
   
 - ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the brain 😎**
 <!--Intro end-->
