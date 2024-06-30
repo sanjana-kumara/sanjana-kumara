@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Sanjana </h1></summary>
   </ul>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer;Backend+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer" alt="Headline" />
     </div>
 </div>
 
