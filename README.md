@@ -100,7 +100,7 @@
 
 <p align="center">  
 <a href="https://www.linkedin.com/sanjanakumara/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discordapp.com/sanjanakumara9300" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="sanjana-kumara" height="50" width="50" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="sanjana-kumara" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@sanjanakumara6236" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="sanjana-kumara" height="50" width="50" /></a>
 <a href="https://fb.com/sanjana nisal kumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjana-kumara" height="50" width="50" /></a>
 <a href="https://www.instagram.com/sanjana_kumara/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sanjana-kumara" height="50" width="50" /></a>
