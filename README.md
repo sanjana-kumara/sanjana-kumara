@@ -62,11 +62,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-kumara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
